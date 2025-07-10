@@ -1,5 +1,5 @@
 {
-  "name": "@its-a-bit-random/beacon",
+  "name": "@its-a-bit-random/signal",
   "version": "2.1.1",
   "description": "Beacon is a signal implementation for sending and receiving events",
   "main": "out/init.lua",
